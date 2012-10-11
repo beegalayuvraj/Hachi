@@ -1,0 +1,8 @@
+Hachi Programming Task
+
+ 1) aodv-20.tcl is the TCL file used to show the simulation of clustering network. i used 20 nodes in the network 
+to simulate the scenario.
+ 2) i used Wireless Protocol AODV to communicate.
+ 3) Performance metrics are calculated based on the generated Trace filr(.tr) using AWK script
+ 4) i uploaded all the work flow screen shots of NS-2 simulator environment.
+ 5) Document file describes the answers to the questions asked.
